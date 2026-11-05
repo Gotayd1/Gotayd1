@@ -1,6 +1,10 @@
 # Hi, I'm Dylan
 
-I'm an IT professional interested in networking, systems administration, and troubleshooting. I enjoy figuring out how systems fit together, solving technical problems, and documenting what I learn.
+I'm a Computer Science student, U.S. Army veteran, and McNair Scholar with hands-on experience supporting campus network infrastructure. My work includes troubleshooting connectivity, assisting with Cisco switch deployments, working with Ethernet and fiber cabling, and documenting network connections.
+
+I'm interested in networking, systems administration, and infrastructure automation. Outside my campus IT work, I build practical experience with Linux, Proxmox, Docker, and self-hosted services.
+
+I'm completing my B.S. in Computer Science at Bloomfield College of Montclair State University, with minors in Mathematics and Psychology. My anticipated graduation is January 2027.
 
 ## Areas of interest
 
