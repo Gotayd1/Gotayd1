@@ -8,10 +8,12 @@ I'm completing my B.S. in Computer Science at Bloomfield College of Montclair St
 
 ## Areas of interest
 
-- **Networking:** connectivity, DNS, and remote access.
-- **Systems administration:** storage, application hosting, and maintenance.
-- **Automation:** using PowerShell to simplify repeatable tasks.
-- **Infrastructure:** Docker Compose, persistent storage, and self-hosted services.
+- **Network infrastructure:** Cisco switching, wireless connectivity, Ethernet and fiber cabling, and network troubleshooting.
+- **Systems administration and virtualization:** Linux, Windows, Proxmox VE, and virtual machine deployment.
+- **Containers and self-hosted services:** Docker, application deployment, and persistent storage.
+- **Monitoring and remote access:** CheckMK, Uptime Kuma, and Tailscale.
+- **Programming and automation:** Python, Java, and PowerShell for problem-solving and repeatable tasks.
+- **Technical support and documentation:** diagnosing issues, tracking service requests, and keeping clear infrastructure records.
 
 ## Current project
 
